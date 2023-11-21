@@ -6,5 +6,8 @@
 Este es un repositorio público para la clase de Aprendizaje Automático en el cual estare compartiendo los resultados de los analisis realizados al igual que los recursos utilizados. 
 
 ## Índice 
-- [Tarea1](Tarea1.ipynb): Crear read.me y Ejemplo de regresión lineal o correlación  en python.
+
+### Semana 1
+- [Tarea0](Semana01\Tarea0.ipynb): Crear read.me y Ejemplo de Correlación  en python.
+- [Tarea1](Semana01\Tarea1.md): Elección de un conjunto de datos
 
