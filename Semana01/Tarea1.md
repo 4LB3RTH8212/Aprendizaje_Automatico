@@ -3,7 +3,7 @@
 
 ### Definir el conjunto de datos.
 
-Tras la revisin de diversos conjuntos de datos se opto por la opción de 2 dataset encontrados en kaggle [Credit Card Approval Prediction](https://www.kaggle.com/datasets/rikdifos/credit-card-approval-prediction). Tras una extensa busqueda por el origen de los datos no se encontro una respuesta exacta, el mismo autor menciona que no sabe el origen. Pero en sus discuciones pone un link como respuesta a la pregunta del [origen](https://mp.weixin.qq.com/s/upjzuPg5AMIDsGxlpqnoCg). Tambien como comentario menciono que los datos son bancarios reales sin informacion personal confidencial.
+Tras la revisión de diversos conjuntos de datos se opto por la opción de 2 dataset encontrados en kaggle [Credit Card Approval Prediction](https://www.kaggle.com/datasets/rikdifos/credit-card-approval-prediction). Tras una extensa busqueda por el origen de los datos no se encontro una respuesta exacta, el mismo autor menciona que no sabe el origen. Pero en sus discuciones pone un link como respuesta a la pregunta del [origen](https://mp.weixin.qq.com/s/upjzuPg5AMIDsGxlpqnoCg). Tambien como comentario menciono que los datos son bancarios reales sin informacion personal confidencial.
 
 ### Se cuentan con 2 tablas.
 
